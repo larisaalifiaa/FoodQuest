@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=MovingPlatform
+comment1.params=left\ right\ y\ speed
+comment1.target=MovingPlatform(int,\ int,\ int,\ int)
+comment2.params=
+comment2.target=void\ act()
+numComments=3

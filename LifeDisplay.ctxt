@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=LifeDisplay
+comment1.params=
+comment1.target=LifeDisplay()
+comment2.params=newLives
+comment2.target=void\ updateLives(int)
+numComments=3

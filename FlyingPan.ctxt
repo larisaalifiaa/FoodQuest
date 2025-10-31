@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=FlyingPan
+comment1.params=
+comment1.target=FlyingPan()
+comment2.params=
+comment2.target=void\ loadImages()
+comment3.params=world
+comment3.target=void\ addedToWorld(greenfoot.World)
+comment4.params=
+comment4.target=void\ act()
+comment5.params=
+comment5.target=void\ moveVertical()
+comment6.params=
+comment6.target=void\ updateAnimation()
+numComments=7

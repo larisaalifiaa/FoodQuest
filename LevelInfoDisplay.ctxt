@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=LevelInfoDisplay
+comment1.params=level\ totalFood
+comment1.target=LevelInfoDisplay(int,\ int)
+comment2.params=newCollected
+comment2.target=void\ updateCollected(int)
+comment3.params=
+comment3.target=void\ updateImage()
+numComments=4

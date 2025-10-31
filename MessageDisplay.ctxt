@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=MessageDisplay
+comment1.params=message
+comment1.target=MessageDisplay(java.lang.String)
+comment2.params=message\ duration
+comment2.target=MessageDisplay(java.lang.String,\ int)
+comment3.params=message
+comment3.target=void\ createImage(java.lang.String)
+comment4.params=
+comment4.target=void\ act()
+numComments=5

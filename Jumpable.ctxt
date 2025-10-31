@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Jumpable
+comment1.params=
+comment1.target=void\ jump()
+comment2.params=
+comment2.target=boolean\ isOnGround()
+numComments=3

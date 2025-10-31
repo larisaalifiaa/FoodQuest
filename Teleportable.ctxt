@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Teleportable
+comment1.params=actor
+comment1.target=void\ teleport(greenfoot.Actor)
+numComments=2

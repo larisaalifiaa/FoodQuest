@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=ScoreBoard
+comment1.params=
+comment1.target=ScoreBoard()
+comment2.params=newScore
+comment2.target=void\ updateScore(int)
+comment3.params=
+comment3.target=int\ getScore()
+numComments=4
